@@ -71,7 +71,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Happy Hour Tracker'),
+        title: const Text('Find My Happy Hour'),
         backgroundColor: Colors.orange,
         actions: [
           IconButton(
